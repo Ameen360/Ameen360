@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm Ameen  
 
-<!--
-**Ameen360/Ameen360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend Engineer | Web Developer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+Dynamic and skilled **Web Developer** with over **4 years of experience** in building and maintaining web applications.  
+- 💡 Proficient in **HTML, CSS, JavaScript** with strong focus on **React** for building responsive, user-friendly interfaces.  
+- ⚙️ Experienced in **backend development** with **Python**, developing user portals and optimizing ICT infrastructure.  
+- 🤝 Passionate about **collaborating with cross-functional teams** to deliver impactful solutions.  
+- 🎯 Currently growing my expertise as a **Web Frontend Engineer**, blending creativity with technical problem-solving.  
+
+---
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+  - HTML  
+  - CSS  
+  - JavaScript  
+  - React  
+
+**Backend & Tools:**  
+  - PHP  
+  - Python  
+
+  **Other Tools & Skills:**  
+  - Git  
+  - GitHub  
+  - VS Code  
+  - MySQL
+
+---
+
+## 🌐 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aliu-ameen-abdulrahman-aa1651197/)  
+- 📧 Email: Aliuame@gmail.com
+
+---
+
+✨ _"From concept to code — crafting the web that works."_ ✨  
+
+ 
