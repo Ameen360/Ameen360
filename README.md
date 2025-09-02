@@ -28,7 +28,7 @@ Dynamic and skilled **Web Developer** with over **4 years of experience** in bui
   - Git  
   - GitHub  
   - VS Code  
-  - MySQL
+  - SQL
 
 ---
 
